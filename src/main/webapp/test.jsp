@@ -11,7 +11,7 @@
     <title>Title</title>
 </head>
 <body>
-
+    <input type="hidden">
 </body>
 <script>
     window.location="toSelectPage.do"
